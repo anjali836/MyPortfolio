@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+a:hover{
+    font-size: 32px;
+}
+
+#about {
+    background-color: rgb(223, 128, 159);
+}
+
+#projects {
+    background-color: rgb(189, 107, 107);
+}
+
+#skills {
+    background-color: rgb(177, 106, 123);
+}
+
+#contact {
+    background-color: rgb(214, 126, 164);
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+ul li{
+    display: inline;
+}
+
+body{
+    margin: 0;
+}
+
+li{
+    padding-right: 40px;
+}
+
+ul li a{
+    text-decoration: none;
+}
